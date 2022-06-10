@@ -2,8 +2,8 @@ const popup = document.querySelector('.popup')
 
 let popupToggle = document.querySelector('.profile__edit-button');
 let popupClose = document.querySelector('.popup__closed');
-let popupName = document.querySelector('.popup__input_name'); 
-let popupProfession = document.querySelector('.popup__input_profession');
+let popupName = document.querySelector('.popup__input_type_name'); 
+let popupProfession = document.querySelector('.popup__input_type_profession');
 let popupTitle = document.querySelector('.profile__name');   
 let popupSubtitle = document.querySelector('.profile__text'); 
 
